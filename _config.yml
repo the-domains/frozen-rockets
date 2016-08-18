@@ -1,4 +1,3 @@
-layout_spectrum: 0.112339171115309
 typography_spectrum: 0.5569221072364599
 color:
   brandStrength: 0.21346156625077128
@@ -6,9 +5,11 @@ color:
   saturation: 0.08732575410977006
   rhythmicContrast: 0.4200304723344743
   brandColors:
-    - '#090806'
-    - '#A4642A'
-    - '#FF9048'
-    - '#0D578C'
-    - '#5590BC'
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+layout_spectrum: 0.112339171115309
 name: Frozen Rockets
+description: experts in digitale toegankelijkheid
